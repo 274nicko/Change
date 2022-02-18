@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,45 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+#img{
+
 }
+
+#img1{
+
+}
+
+#boton{
+
+}
+
+/* Clases */
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.boton{
+  display: 	flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 30px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+/* Etiquetas */
+img{
+  height: 180px;
+  width: 200px;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+}
+
+
